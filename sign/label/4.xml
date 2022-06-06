@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>4.png</filename>
+	<path>/my-project-name/4.png</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1728</width>
+		<height>2156</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>540</xmin>
+			<ymin>597</ymin>
+			<xmax>805</xmax>
+			<ymax>695</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>879</xmin>
+			<ymin>455</ymin>
+			<xmax>1403</xmax>
+			<ymax>556</ymax>
+		</bndbox>
+	</object>
+</annotation>
